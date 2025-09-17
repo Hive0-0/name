@@ -1,0 +1,8 @@
+.div_container{
+    width: 10%;
+    height: 10%;
+    background: pink;
+    border: 1px blue;
+    margin-left: 5%;
+    padding-top: 2%;
+}
