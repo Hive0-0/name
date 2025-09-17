@@ -6,3 +6,37 @@
     margin-left: 5%;
     padding-top: 2%;
 }
+
+h1{
+    color: aqua;
+    font-size: 3vw;
+    margin: 3% auto;
+    width: 70%;
+}
+
+nav{
+    background-color: rgb(201, 185, 162);
+    width: 300px;
+    position: fixed;
+    top: 45px;
+    left: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    opacity: 0.1;
+    transition: all 0.5s ease;
+}
+nav:hover{
+    opacity: 1;
+    transition: all 0.5s ease;
+}
+
+p{
+    margin-top: 0.5%;
+}
+
+h2, h3, p, ul, div, img, hr {
+width: 70%;
+margin: 0px auto;
+
+
+}
