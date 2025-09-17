@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(243, 230, 42);
+}
+h1{
+    color: black;
+}
+    .textl{
+        text-decoration: underline;
+        font-size: 4vw;
+        transition: all 1s linear;
+    }
+    .text1:hover{
+        font-size: 4vw;
+        color: pink;
+        transition: all 1s linear;
+    }
+    #link_a{
+    text-decoration: none;
+    font-size: 40px;
+    color: aliceblue;
+    width: 100%;
+}
